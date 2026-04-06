@@ -51,5 +51,5 @@ GROUP BY supplier_id;
 
 ## Структура репозиторію
 
-- task3_queries.sql — SQL-запити  
+- hw3_queries.sql — SQL-запити
 - screenshots/ — скриншоти виконання
